@@ -23,6 +23,14 @@
       "category": "Educação",
       "price": 1980,
       "createdAt": "2022-07-29T19:24:44.505Z"
+    },
+    {
+      "id": "7083",
+      "description": "teste",
+      "price": 123,
+      "category": "teste",
+      "type": "outcome",
+      "createdAt": "2024-08-06T21:17:03.090Z"
     }
   ]
 }
