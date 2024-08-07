@@ -1,0 +1,52 @@
+{
+  "transactions": [
+    {
+      "id": 1,
+      "description": "Desenvolvimento de site",
+      "type": "income",
+      "category": "Venda",
+      "price": 14000,
+      "createdAt": "2022-07-29T19:36:44.505Z"
+    },
+    {
+      "id": 2,
+      "description": "Hambúrguer",
+      "type": "outcome",
+      "category": "Alimentação",
+      "price": 60,
+      "createdAt": "2022-07-29T19:30:44.505Z"
+    },
+    {
+      "id": 3,
+      "description": "Ignite Rocketseat",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1980,
+      "createdAt": "2022-07-29T19:24:44.505Z"
+    },
+    {
+      "id": "7083",
+      "description": "teste",
+      "price": 123,
+      "category": "teste",
+      "type": "outcome",
+      "createdAt": "2024-08-06T21:17:03.090Z"
+    },
+    {
+      "id": "66fc",
+      "description": "desc",
+      "price": 12,
+      "category": "urgente",
+      "type": "income",
+      "createdAt": "2024-08-07T14:07:00.536Z"
+    },
+    {
+      "id": "b44b",
+      "description": "drtgd",
+      "price": 243,
+      "category": "erytwery",
+      "type": "outcome",
+      "createdAt": "2024-08-07T14:12:34.481Z"
+    }
+  ]
+}
